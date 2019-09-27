@@ -1,6 +1,4 @@
-# CMPE250_2017Fall_Project1
-
-Due date: 9.11.2017
+# Class-Survery-Project
 
 Please check out Project1.pdf for description of the project.
 
