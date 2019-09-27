@@ -1,0 +1,3 @@
+C:/Users/cemal/Desktop/Courses/cmpe250-proje1/project1-cemal-aytekin-2015400126/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/cemal/Desktop/Courses/cmpe250-proje1/project1-cemal-aytekin-2015400126/cmake-build-debug/CMakeFiles/project1.dir
+C:/Users/cemal/Desktop/Courses/cmpe250-proje1/project1-cemal-aytekin-2015400126/cmake-build-debug/CMakeFiles/edit_cache.dir
