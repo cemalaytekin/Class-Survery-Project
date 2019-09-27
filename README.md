@@ -1,4 +1,4 @@
-# Class-Survery-Project
+# Class-Survey-Project
 
 Please check out Project1.pdf for description of the project.
 
